@@ -1,5 +1,5 @@
 # SwampCooler
-Embedded Systems Design (CPE301) Swamp Cooler Final Project
+Swamp Cooler Final Project Embedded Systems Design (CPE301)
 
 Spring 2022
 
